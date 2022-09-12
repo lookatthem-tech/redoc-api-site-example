@@ -1,11 +1,22 @@
 {
-  "name": "redoc",
-  "version": "2.0.0-rc.77",
-  "description": "ReDoc",
+  "name": "redoc-api-site-example",
+  "description": "",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Redocly/redoc"
+    "url": "https://github.com/lookatthem-tech/redoc-api-site-example.git"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lookatthem-tech/redoc-api-site-example/issues"
+  },
+  "homepage": "https://github.com/lookatthem-tech/redoc-api-site-example"
+},
   "browserslist": [
     "defaults"
   ],
